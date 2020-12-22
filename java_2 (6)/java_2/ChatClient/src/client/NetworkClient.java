@@ -1,6 +1,5 @@
 package client;
 
-
 import client.controllers.AuthController;
 import client.controllers.ChatController;
 import client.models.Network;
@@ -40,7 +39,7 @@ public class NetworkClient extends Application {
 
     private void openAuthWindow() throws IOException {
         FXMLLoader loader = new FXMLLoader();
-        loader.setLocation(NetworkClient.class.getResource("views/auth-view.fxml"));
+        loader.setLocation(NetworkClient.class.getResource("/views/auth-view.fxml"));
         Parent root = loader.load();
         authStage = new Stage();
 

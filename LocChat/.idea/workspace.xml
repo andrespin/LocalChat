@@ -4,15 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66e3084b-7629-433c-ae8f-be43d6c71723" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/java_2 (6).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_2 (6)/java_2/.idea/libraries/lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_2 (6)/java_2/.idea/libraries/javafx.xml" beforeDir="false" />
+    <list default="true" id="4b9d5c56-6a33-441d-9a6e-24f3af2f8356" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LcChat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LcChat/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LcChat/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LcChat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LcChat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LcChat/LcChat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LcChat/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatClient/ChatClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/ChatClient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatClient/src/main/java/client/NetworkClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/client/NetworkClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatClient/src/main/java/client/controllers/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/client/controllers/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatClient/src/main/java/client/models/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/client/models/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatClient/src/main/java/readerandwriter/ClientReaderAndWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/java/readerandwriter/ClientReaderAndWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatClient/src/main/resources/lib/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ChatClient/src/main/resources/lib/test1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/ChatServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/ChatServer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/ServerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/ServerApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/chat/MyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chat/MyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/chat/auth/BaseAuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chat/auth/BaseAuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/chat/database/DataBaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chat/database/DataBaseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/chat/handler/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/chat/handler/ClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LocChat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LocChat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writtenS1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/writtenS1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatClient/ChatClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatClient/ChatClient.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatClient/src/client/NetworkClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatClient/src/client/NetworkClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatServer/ChatServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatServer/ChatServer.iml" afterDir="false" />
@@ -24,34 +41,106 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1lmcZUH6dtwvApVKU5r1y7dlGhS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1lmnjDmsiXgBoUnfLBZVA8kG5qk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_2 (6)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LocChatInputOutput" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Учёба\GeekBrains\JavaCore. Продвинутый уровень\LocalChat\LocChat\ChatClient\src\main\resources" />
+      <recent name="C:\Учёба\GeekBrains\JavaCore. Продвинутый уровень\LocalChat\LocChat\ChatServer\src\main\resources" />
+      <recent name="C:\Учёба\GeekBrains\JavaCore. Продвинутый уровень\LocalChat\LocChat\ChatClient\src\main\java" />
+      <recent name="C:\Учёба\GeekBrains\JavaCore. Продвинутый уровень\LocalChat\LocChat\ChatCommands\src\main\java" />
+      <recent name="C:\Учёба\GeekBrains\JavaCore. Продвинутый уровень\LocalChat\LocChat\ChatServer\src\main\java\Chat\auth" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Учёба\GeekBrains\JavaCore. Продвинутый уровень\LocalChat\LocChat\ChatServer\src\main\resources" />
+      <recent name="C:\Учёба\GeekBrains\JavaCore. Продвинутый уровень\LocalChat\LocChat\ChatClient\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="readerandwriter" />
+      <recent name="Chat.handler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NetworkClient">
+    <configuration name="NetworkClient" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="MAIN_CLASS_NAME" value="client.NetworkClient" />
+      <module name="ChatClient" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerApp" />
+      <module name="ChatServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NetworkClient" />
+      <item itemvalue="Application.ServerApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerApp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66e3084b-7629-433c-ae8f-be43d6c71723" name="Default Changelist" comment="" />
-      <created>1608205764207</created>
+      <changelist id="4b9d5c56-6a33-441d-9a6e-24f3af2f8356" name="Default Changelist" comment="" />
+      <created>1608211267988</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608205764207</updated>
-      <workItem from="1608205765386" duration="2182000" />
+      <updated>1608211267988</updated>
+      <workItem from="1608211269153" duration="1887000" />
+      <workItem from="1608223614158" duration="4653000" />
+      <workItem from="1608283156075" duration="16681000" />
+      <workItem from="1608551857325" duration="4088000" />
+      <workItem from="1608556877806" duration="5803000" />
+      <workItem from="1608573791933" duration="2881000" />
+      <workItem from="1608621945755" duration="6891000" />
     </task>
     <servers />
   </component>
@@ -68,5 +157,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
