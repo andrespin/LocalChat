@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66e3084b-7629-433c-ae8f-be43d6c71723" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/java_2 (6).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_2 (6)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_2 (6)/java_2/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_2 (6)/java_2/.idea/libraries/javafx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatClient/ChatClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatClient/ChatClient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatClient/src/client/NetworkClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatClient/src/client/NetworkClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatServer/ChatServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_2 (6)/java_2/ChatServer/ChatServer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_2 (6)/java_2/java_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_2 (6)/java_2/java_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_2 (6)/java_2/out/production/ChatClient/client/NetworkClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java_2 (6)/java_2/out/production/ChatClient/client/NetworkClient.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lmcZUH6dtwvApVKU5r1y7dlGhS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_2 (6)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e3084b-7629-433c-ae8f-be43d6c71723" name="Default Changelist" comment="" />
+      <created>1608205764207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608205764207</updated>
+      <workItem from="1608205765386" duration="2182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
