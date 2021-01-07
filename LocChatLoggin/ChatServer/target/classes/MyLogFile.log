@@ -1,0 +1,10 @@
+янв. 07, 2021 5:19:44 PM chat.logging.ServerLogger writeInfoLog
+INFO: Сервер запущен!
+янв. 07, 2021 5:19:44 PM chat.logging.ServerLogger writeInfoLog
+INFO: Ожидание пользователя...
+янв. 07, 2021 5:20:07 PM chat.logging.ServerLogger writeInfoLog
+INFO: Клиент подключился!
+янв. 07, 2021 5:20:07 PM chat.logging.ServerLogger writeInfoLog
+INFO: Аутентификация
+янв. 07, 2021 5:20:07 PM chat.logging.ServerLogger writeInfoLog
+INFO: Ожидание пользователя...
